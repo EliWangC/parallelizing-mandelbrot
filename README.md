@@ -4,7 +4,7 @@
 It implements the sequential and parallel versions of the Mandelbrot
 fractal. Of course this is not a novel project idea but I did come up with my own hybrid version of static and dynamic load balancing in the parallel implementation that produced some interesting results as shown in the report.
 
-# Course Instrucions
+# Course Instructions
 
 Author: Raymond Pistoresi
 
